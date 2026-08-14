@@ -2,7 +2,7 @@
 Arduino-controlled robotic arm designed to automatically pick up an object, transport it to another position, and release it.
 
 <p align="center">
-  <img src="images/robotic-arm.jpg" width="700">
+  <img src="images/robotic-arm.jpeg" width="700">
 </p>
 
 ## Overview
@@ -70,7 +70,7 @@ The robotic arm was constructed as an articulated mechanical prototype.
 Multiple servo motors control the arm joints and gripper while a stepper motor provides rotation at the base.
 
 <p align="center">
-  <img src="images/gripping-object.jpg" width="700">
+  <img src="images/gripping-object.jpeg" width="700">
 </p>
 
 ## Motion Sequence
